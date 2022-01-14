@@ -1,0 +1,1 @@
+O desafio desse exercício é trocar a cor utilizada para desenhar o círculo de acordo com o quadrado da cor que clicarmos. Se clicarmos no verde, usaremos a cor verde quando formos desenhar e por aí vai. Outro ponto é que não podemos desenhar em cima da nossa paleta, ou melhor, não podemos desenhar na linha inteira na qual faz parte.
